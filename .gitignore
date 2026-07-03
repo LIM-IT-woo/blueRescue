@@ -1,0 +1,27 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Gradle (Backend) ###
+.gradle/
+build/
+blue-rescue-backend/.gradle/
+blue-rescue-backend/build/
+
+### Node / React (Frontend) ###
+node_modules/
+blue-rescue-front/node_modules/
+blue-rescue-front/build/
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+### OS ###
+.DS_Store
+Thumbs.db
